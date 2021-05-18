@@ -1,6 +1,13 @@
 
 {
   "monitor": {
-    "test": "Data"
+    "test": "Data",
+    "test2": "data 2"
+  },
+  "react-sample": {
+    "auth": {
+      "username": "userone",
+      "password": "password"
+    }
   }
 }
